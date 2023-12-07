@@ -11,7 +11,7 @@ Do ETL : Extract-Transform-Load some Amazon dataset and find for me
 Sales-trend -> month wise , year wise , yearly_month wise
 Find key metrics and factors and show the meaningful relationships between attributes.
 ## DATASET: 
-https://docs.google.com/spreadsheets/d/1h3EsPf-fTLrzpP7sGeyuRnGBXrdJRcXY/edit?usp=sharing&ouid=105519103382792804653&rtpof=true&sd=true
+[(https://drive.google.com/file/d/10sofXyF6NjwN6ngLyFfiPI-CUDpeqaN_/view)]
 ## TECHNOLOGY:
 Business Intelligence
 ## DOMAIN:

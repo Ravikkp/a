@@ -10,3 +10,5 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 ## 🛠 Tools Used
     1. Excel
     2. Power BI
+    3. python
+    4. pandas
